@@ -15,7 +15,7 @@
 </head>
 <body>
    <?php if($adm):?>
-        <table width="40%">
+        <table width="40%" border="1>
             <thead>
                 <tr style="font-weight : bold">
                     <td>Email</td>
